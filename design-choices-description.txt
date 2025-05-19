@@ -1,0 +1,15 @@
+Here’s a short, beginner-friendly note on my design choices:
+
+- I kept the layout simple (header, hero, collections, footer) so it’s easy to follow.
+
+- I used Bootstrap’s grid and Tailwind classes together to make sure everything stacks nicely on phones and spreads out on bigger screens.
+
+- I chose a light background with dark text and buttons so it’s readable and the collections pop.
+
+- I added a hover border and lift on product cards to give a little interactive feel.
+
+- The header is sticky so the menu stays visible when you scroll—super handy!
+
+- I used media queries and built-in responsive utilities to shrink text and rearrange nav links on small screens.
+
+- This helped me learn how to mix CSS and Bootstrap to build a page that looks good everywhere.
